@@ -1,0 +1,15 @@
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.csproj.AssemblyReference.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.AssemblyInfoInputs.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.AssemblyInfo.cs
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.Services.deps.json
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.Services.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.Services.pdb
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.Domain.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.DataAccess.pdb
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\bin\Debug\netcoreapp3.1\MovieApp.Domain.pdb
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.csproj.CopyComplete
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Services\obj\Debug\netcoreapp3.1\MovieApp.Services.pdb

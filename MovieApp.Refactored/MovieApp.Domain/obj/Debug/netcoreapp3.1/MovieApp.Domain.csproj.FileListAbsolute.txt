@@ -1,0 +1,10 @@
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\bin\Debug\netcoreapp3.1\MovieApp.Domain.deps.json
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\bin\Debug\netcoreapp3.1\MovieApp.Domain.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\bin\Debug\netcoreapp3.1\MovieApp.Domain.pdb
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.csproj.AssemblyReference.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.AssemblyInfoInputs.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.AssemblyInfo.cs
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.dll
+C:\Users\ANASTAS\Desktop\MovieApp.Refactored1\MovieApp.Refactored\MovieApp.Domain\obj\Debug\netcoreapp3.1\MovieApp.Domain.pdb
